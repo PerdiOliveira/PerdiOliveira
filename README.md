@@ -3,8 +3,7 @@
   <h3>A passionate Jr frontend developer from Brazil</h3>
 </div>
 </br>
-</br>
-</br>
+
 
 
 - 🔭 I’m currently working on **the full digital journey for customers of Unifique Comunicações**
