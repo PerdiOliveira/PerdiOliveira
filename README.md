@@ -1,16 +1,13 @@
 <div align='center'>
 
-  <h1 align="center">Hiee 👋, I'm Jader</h1>
-  <h3 align="center">A passionate Jr frontend developer from Brazil</h3>
+  <h1 >Hiee 👋, I'm Jader</h1>
+  <h3>A passionate Jr frontend developer from Brazil</h3>
 </div>
 
-  - 🔭 I’m currently working on **the full digital journey for customers of Unifique Comunicações**
-
-  - 🌱 I’m currently learning **SQL**
-
-  - 👯 I’m looking to collaborate on **any kind of projects**
-
-  - 💬 Ask me about **react, react native and games**
+- 🔭 I’m currently working on **the full digital journey for customers of Unifique Comunicações**
+- 🌱 I’m currently learning **SQL**
+- 👯 I’m looking to collaborate on **any kind of projects**
+- 💬 Ask me about **react, react native and games**
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
